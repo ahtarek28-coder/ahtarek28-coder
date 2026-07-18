@@ -1,27 +1,20 @@
-<!--
-This is a GitHub "profile README" — when a repo is named exactly the same as your
-username (ahtarek28-coder/ahtarek28-coder), GitHub renders its README.md on your
-profile page automatically. Fill in the placeholders below, then this gets pushed
-to that special repo.
--->
+### Hi, I'm Ahmad Tarek 👋
 
-### Hi, I'm <!-- your display name -->
+Senior Data Engineer with 9+ years building cloud-scale ETL and analytics infrastructure for telecom and SaaS organizations — currently working on customer experience analytics at Huawei, turning fragmented customer data into a unified, 360-degree view.
 
-Senior Data Engineer / Data Analyst working on <!-- e.g. "customer experience analytics for telecom" -->.
+I focus on getting the grain, the joins, and the edge cases right — not just the happy path — and on data quality frameworks that catch problems before they reach a dashboard.
 
-I build data pipelines, models, and reporting systems that turn raw operational data into decisions — with a focus on getting the grain, the joins, and the edge cases right, not just the happy path.
+**Core stack:** GCP (BigQuery, Dataflow, Dataproc) · AWS · Snowflake · Python · SQL · Apache Airflow · Tableau · Looker
 
-**Core skills:** SQL & data modeling · pipeline orchestration (Airflow, dbt) · big data & streaming (Spark, Kafka) · cloud data platforms
+**Certifications:** AWS Certified Machine Learning – Specialty · MBA (Management Information Systems), in progress
 
 ---
 
 #### Featured
 
 - 📚 [data-engineering-skills](https://github.com/ahtarek28-coder/data-engineering-skills) — a living reference of real SQL patterns and data modeling techniques, documented with the reasoning and gotchas behind each one, not just the code.
-- <!-- 🔧 link to next project once it has a repo -->
+- 🔧 [telecom-cx-analytics-pipeline](https://github.com/ahtarek28-coder/telecom-cx-analytics-pipeline) — an end-to-end pipeline demo (Airflow + dbt) generalizing real telecom CX reporting patterns onto synthetic data. 🚧 in progress.
 
 ---
 
-<!-- optional: contact/links line, e.g.
-📫 Reach me on [LinkedIn](...) · 🌐 [portfolio site](...)
--->
+📫 [LinkedIn](https://linkedin.com/in/ahmad-tarek-69649348)
