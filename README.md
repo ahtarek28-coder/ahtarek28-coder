@@ -13,7 +13,8 @@ I focus on getting the grain, the joins, and the edge cases right — not just t
 #### Featured
 
 - 📚 [data-engineering-skills](https://github.com/ahtarek28-coder/data-engineering-skills) — a living reference of real SQL patterns and data modeling techniques, documented with the reasoning and gotchas behind each one, not just the code.
-- 🔧 [telecom-cx-analytics-pipeline](https://github.com/ahtarek28-coder/telecom-cx-analytics-pipeline) — an end-to-end pipeline demo (Airflow + dbt) generalizing real telecom CX reporting patterns onto synthetic data. 🚧 in progress.
+- 🔧 [telecom-cx-analytics-pipeline](https://github.com/ahtarek28-coder/telecom-cx-analytics-pipeline) — an end-to-end pipeline demo (Airflow + dbt) generalizing real telecom CX reporting patterns onto synthetic data. Verified end-to-end: 7/7 models built, 11/11 data tests passing.
+- 🧪 [dqcheck](https://github.com/ahtarek28-coder/data-quality-toolkit) — a SQL-native, config-driven data quality checking library/CLI that operationalizes join-fan-out and grain checks. 15/15 unit tests passing.
 
 ---
 
