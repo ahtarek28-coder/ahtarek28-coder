@@ -1,6 +1,6 @@
 ### Hi, I'm Ahmad Tarek 👋
 
-Senior Data Engineer with 9+ years building cloud-scale ETL and analytics infrastructure for telecom and SaaS organizations — currently working on customer experience analytics at Huawei, turning fragmented customer data into a unified, 360-degree view.
+Senior Data Engineer with 9+ years building cloud-scale ETL and analytics infrastructure for telecom and SaaS organizations — currently working on customer experience analytics at STC, turning fragmented customer data into a unified, 360-degree view.
 
 I focus on getting the grain, the joins, and the edge cases right — not just the happy path — and on data quality frameworks that catch problems before they reach a dashboard.
 
