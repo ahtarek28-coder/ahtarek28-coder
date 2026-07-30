@@ -16,7 +16,7 @@ I focus on getting the grain, the joins, and the edge cases right — not just t
 - 🔧 [telecom-cx-analytics-pipeline](https://github.com/ahtarek28-coder/telecom-cx-analytics-pipeline) — an end-to-end pipeline demo (Airflow + dbt) generalizing real telecom CX reporting patterns onto synthetic data. Verified end-to-end: 7/7 models built, 11/11 data tests passing.
 - 🧪 [dqcheck](https://github.com/ahtarek28-coder/data-quality-toolkit) — a SQL-native, config-driven data quality checking library/CLI that operationalizes join-fan-out and grain checks. 15/15 unit tests passing.
 - 🌐 [telecom-open-data-ingestion](https://github.com/ahtarek28-coder/telecom-open-data-ingestion) — ingests real telecom data (FCC complaints, World Bank indicators) via legitimate public APIs, incremental via checkpoint. Verified live: 3,500 real complaint records across 2 runs, 0 duplicates.
-- ⚡ [telecom-streaming-kpi-pipeline](https://github.com/ahtarek28-coder/telecom-streaming-kpi-pipeline) — Kafka + Spark Structured Streaming, real-time network KPI aggregation into tumbling windows. 🚧 core transformation logic verified with real Spark execution; full live run on Kafka still pending.
+- ⚡ [telecom-streaming-kpi-pipeline](https://github.com/ahtarek28-coder/telecom-streaming-kpi-pipeline) — Kafka + Spark Structured Streaming, real-time network KPI aggregation into 1-minute tumbling windows. Verified live end-to-end: real broker, real windowed aggregates, watermark-triggered Parquet finalization observed directly.
 
 ---
 
